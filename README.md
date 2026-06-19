@@ -4,7 +4,7 @@
 | Name | Seneca email address | Student ID |
 |------|--------|---------|
 | Syed Mohammad Arif | smarif1@myseneca.ca | 130738255 |
-| Joshua Akabuogu | (add Seneca email) | (add student ID) |
+| Joshua Akabuogu | jakabuogu@myseneca.ca | 115585267 |
 
 ## Topic Summary
 GitHub Copilot, Cursor, and similar AI coding assistants have become standard tools in
