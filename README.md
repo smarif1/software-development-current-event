@@ -23,6 +23,6 @@ it means for CS students entering the field.
 
 ## Repository Contents
 - `Research.md` — research notes and cited sources
-- `Presentation-script.md` — full video script with timing breakdown
+- `PresentationScript.md` — full video script with timing breakdown
 - `taskBreakdown.md` — task assignments and timeline
 - `Presentation.pptx` — final slide deck
